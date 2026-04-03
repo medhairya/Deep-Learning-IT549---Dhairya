@@ -1,0 +1,9 @@
+names:
+- apple
+- banana
+- orange
+nc: 3
+path: c:\Users\hp\Desktop\yolo_dataset
+test: images/test
+train: images/train
+val: images/test
